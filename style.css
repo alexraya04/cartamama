@@ -1,0 +1,36 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fff8f4;
+  background-image:
+    url('images/gerbera.png'),
+    url('images/girasol.png'),
+    url('images/rosa.png'),
+    url('images/orquidea.png'),
+    url('images/tulipan.png'),
+    url('images/lirio.png');
+  background-position:
+    top left,
+    top right,
+    bottom left,
+    bottom right,
+    center left,
+    center right;
+  background-repeat: no-repeat;
+  background-size: 120px, 120px, 150px, 150px, 100px, 100px;
+  font-family: 'Marck Script', cursive;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.carta {
+  background: white;
+  border-radius: 10px;
+  padding: 30px;
+  max-width: 500px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
