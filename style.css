@@ -169,9 +169,9 @@ h1 {
 .flor-3 { top: 30px; right: 150px; animation-delay: 2s; }
 .flor-5 { top: 40px; right: 10px; animation-delay: 0.5s; }
 
-.flor-4 { bottom: 50px; left: 20px; animation-delay: 1s; }
-.flor-2 { bottom: 50px; left: 100px; animation-delay: 1s; }
-.flor-7 { bottom: 50px; right: 120px; animation-delay: 1s; }
+.flor-4 { bottom: 30px; left: 20px; animation-delay: 1s; }
+.flor-2 { bottom: 30px; left: 100px; animation-delay: 1s; }
+.flor-7 { bottom: 60px; right: 120px; animation-delay: 1s; }
 .flor-6 { bottom: 40px; right: 20px; animation-delay: 2.5s; }
 
 @keyframes flotar {
